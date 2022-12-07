@@ -12,4 +12,4 @@ namespace: default
 
 images:
   - name: 267485056628.dkr.ecr.us-east-1.amazonaws.com/findigs-core-api
-    newTag: 61305f0552b2f5031923963094499652b4cbfc4d
+    newTag: test_hash
